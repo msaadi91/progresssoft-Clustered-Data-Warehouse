@@ -1,0 +1,3 @@
+com\progresssoft\configuration\HibernateTestConfiguration.class
+com\progresssoft\controller\FileUploadControllerTest.class
+com\progresssoft\dao\EntityDaoImplTest.class

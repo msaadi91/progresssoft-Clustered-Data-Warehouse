@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: File-Upload
+Implementation-Version: 1.0
+Built-By: DELL
+Implementation-Vendor-Id: com.progresssoft
+Build-Jdk: 1.8.0_201
+Implementation-URL: http://projects.spring.io/spring-boot/File-Upload/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
